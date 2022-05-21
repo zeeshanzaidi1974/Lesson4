@@ -64,6 +64,9 @@
     color: #FFFFFF;
     border: none;
 }
+.message {
+     margin-left: 50px;
+  }
 
 .img {
     max-width: 200px;
