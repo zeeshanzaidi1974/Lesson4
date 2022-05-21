@@ -19,8 +19,8 @@
 .main-title {
     max-width: 495px;
     width: 100%;
-    margin-top: 203px;
-    margin-left: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
     font-family: 'Ramaraja', serif;
     font-style: normal;
     font-weight: normal;
@@ -35,7 +35,7 @@
     max-width: 583px;
     width: 100%;
     margin-top: 10px;
-    margin-left: 200px;
+    margin-left: 20px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -50,7 +50,7 @@
     width: 152px;
     height: 64px;
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 20px;
     background-color: #A3DC00;
     border-radius: 6px;
     font-family: 'Roboto', sans-serif;
