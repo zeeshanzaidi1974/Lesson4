@@ -15,9 +15,6 @@
     color: #A3DC00;
 }
 
-section {
-    display: inline-block;
-}
 
 .main-title {
     max-width: 495px;
@@ -74,6 +71,6 @@ img {
     margin-left: 10px;
 }
 
-section {
+.section {
     display: inline-block;
 }
