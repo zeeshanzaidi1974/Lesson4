@@ -78,7 +78,6 @@
  .navcontainer ul li a:hover
 {
   color: #fff;
-
   background-color: #369;
 }
 
@@ -87,30 +86,18 @@
 
 .navcontainer ul li a
 {
-
   text-decoration: none;
-
   padding: .2em 1em;
-
-   color: #fff;
-
+  color: #fff;
   background-color: #036;
-
   width: 1200px;
 }
 
  .navcontainer ul li a:hover
 {
   color: #fff;
-
   background-color: #369;
 }
-
-
-
-.message {
-     margin-left: 50px;
-  }
 
 .img {
     max-width: 250px;
